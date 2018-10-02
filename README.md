@@ -17,7 +17,7 @@ beekeepers) worldwide.
 The PiHive project is in its first year with the first prototype having been designed over the summer, and installed in Fall 2017.
 
 ### My two beehives
-![Picture4](/hivesafterhoneyharvest.jpg width="48")
+![Picture4](/hivesafterhoneyharvest.jpg)
 
 ### Some iPhone 6 photography
 ![Frames](/frames.JPG)
