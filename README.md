@@ -1,6 +1,6 @@
 ## Welcome to my project webpage!
 
-My name is Nathan Clifford and this webpage is a collection of data, codes, and images for my PiHive project.
+My name is Nathan and this webpage is a collection of data, codes, and images for my PiHive project.
 
 The project is an integration of modern technology into the art of
 beekeeping. Using a Raspberry Pi computer the system is able to monitor the beehive temperature 
